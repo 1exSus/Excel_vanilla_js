@@ -45,6 +45,7 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
-    "clean-webpack-plugin": "^4.0.0"
+    "clean-webpack-plugin": "^4.0.0",
+    "normalize.css": "^8.0.1"
   }
 }
